@@ -3,3 +3,5 @@
 - PyWFS
 - RTC
 - DM
+- Mask
+- New algo
